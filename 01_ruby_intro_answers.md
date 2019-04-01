@@ -41,4 +41,4 @@ Your ruby version:
 2. How many minutes are in a decade?
     * Answer: 52560008760
 3. How many seconds old are you?
-    * Answer: 245280
+    * Answer: 14716800
