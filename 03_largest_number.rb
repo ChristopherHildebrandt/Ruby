@@ -1,7 +1,5 @@
 # Write a method that will take two numbers,
 # and return whichever is the largest.
-
-
 #
 # Example:
 # largest_number(100,50) should return 100
@@ -16,7 +14,7 @@
 # If you complete the challenge, feel free to come up
 # with your own examples and test corner cases.
 # 
-# Examples - what if both numbers are equal or are strings?
+# Examples - what if both numbers are equal or are strings? Prints the largest number, doesn't tell user that there are 2 though
 
 puts "Please enter multiple numbers, serperating each number chosen  with a space"
 # prints user query
