@@ -35,4 +35,8 @@ return false
 # method 2 - one liner 
 haystack {|x| return true if x = needle} return false
 
+
+
+
+
   
