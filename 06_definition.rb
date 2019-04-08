@@ -19,21 +19,19 @@ add_term = gets.chomp
 puts "whats the definition"
 add_def = gets.chomp
 
-class Definition 
-    def add_word (add_term, add_def)
-        add_term = "#{add_term, add_def}"
+class Definition
+    def definition.add_word (add_term, add_def)
+        add_word = "#{add_term, add_def}"
     end
-    
-
-    def lookup(word)
+    def definition.lookup(word)
         if word == add_word
-            p "#{add_term}: #{add_def}"
-        end
+        p "#{add_term}: #{add_def}"
     end
-    
-
-    def total_words (add_word)
-        add_word.split(/|s+/).length
+    def definitiion.total_words (add_word)
+        add_word.split(" ").length
     end
-    
 end
+
+puts "#{add_word}"
+puts "#{lookup}"
+puts "#{total_words}"
