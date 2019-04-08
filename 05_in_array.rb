@@ -14,10 +14,25 @@
 # "hello", ["hi","howdy","hello"] should return true.
 
 def in_array (needle, haystack)
-  # Your code here
+  heystack.include?(needle)
 end
+
 
 
 # Beast Mode:
 
 # Redo the challenge but try solving it again in a different way.
+
+# The array (in_array) is (needle,haystack) defined
+
+def in_array (needle, haystack)
+  for hay in haystack 
+    return true if hay == needle 
+end
+return false
+
+
+# method 2 - one liner 
+haystack {|x| return true if x = needle} return false
+
+  
