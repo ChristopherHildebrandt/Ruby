@@ -16,11 +16,9 @@
 
 
 class Definition
-
     def initialize # this will make the program initialize the hash and add a word each time
         @word_hash = {} # left  empty so it can be filled  @ means that we can find this variable within the class
     end
-
     def add_term # creating a method that allows us to add and define a word
         puts "What is the new word?" # asks for user input
         word = gets.chomp # gets the user input and stores it in word
@@ -29,7 +27,6 @@ class Definition
 
         @word_hash[word] = define # key word in word_hash when called upon will print whats stored in define
     end
-
     def lookup(word, word_hash = word_hash) # define the method as lookup and this method will produce the word and definition
         puts "#{word}:  #{@word_hash[word]}" # printing key and its value
     end
@@ -39,9 +36,6 @@ class Definition
 end
 
 definition = Definition.new
-
 definition.add_term
-
 definition.lookup("ruby")
-
 definition.total_words
