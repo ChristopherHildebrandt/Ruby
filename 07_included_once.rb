@@ -18,9 +18,9 @@
 # ruby tests/14_included_once_test.rb
 #
 
-def included_once?
+def included_once (haystack, needle)
   included_once.select.uniq
 end
 
-# includedOnce(['hello','hi','hi'], 'hi') -> false
-# includedOnce(['hello','hi','hey'], 'hi') -> true
+includedOnce(['hello','hi','hi'], 'hi') 
+includedOnce(['hello','hi','hey'], 'hi') 
