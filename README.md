@@ -19,6 +19,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## List of challenge branches
 * 01_ruby_intro
 * 02_input_output
@@ -42,11 +43,21 @@
 * 01_ruby_intro
 * 02_input_output
 >>>>>>> 7db251037940e1eef793cf520e49867005ffaee3
+=======
+## List of challenge branches
+* 01_ruby_intro
+* 02_input_output
+>>>>>>> edb6dc4f8813f7619f327824eb92afe925d068d0
 * 03_largest_number
 * 04_sum_numbers
 * 05_in_array
 * 06_definition
 * 07_included_once
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 * 08_count_letters
+=======
+* 08_count_letters
+* 09_vowels
+>>>>>>> edb6dc4f8813f7619f327824eb92afe925d068d0
