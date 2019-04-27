@@ -1,5 +1,9 @@
 # Ruby Morning Challenges
 
+## Coder Academy Repo - Used for a plaxe to store coding challenges.
+# Originate from Coder Academy GenTech - Ruby Morning Challenges
+
+
 ## Instructions
 1. Fork and clone
 2. Create a link to this repo: <br/>
@@ -17,47 +21,17 @@
     7. Push to master in your fork:<br/>
      `git push origin master`
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-## List of challenge branches
-* 01_ruby_intro
-* 02_input_output
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-* 03_largest_number
 
-* 03_largest_number
-* 04_sum_numbers
-* 05_in_array
-* 03_largest_number
-* 04_sum_numbers
-=======
-# List of challenge branches
-* 01_ruby_intro
-* 02_input_output
-=======
+
 ## List of challenge branches
 * 01_ruby_intro
 * 02_input_output
->>>>>>> 7db251037940e1eef793cf520e49867005ffaee3
-=======
-## List of challenge branches
-* 01_ruby_intro
-* 02_input_output
->>>>>>> edb6dc4f8813f7619f327824eb92afe925d068d0
 * 03_largest_number
 * 04_sum_numbers
 * 05_in_array
 * 06_definition
 * 07_included_once
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 * 08_count_letters
-=======
 * 08_count_letters
 * 09_vowels
->>>>>>> edb6dc4f8813f7619f327824eb92afe925d068d0
+
