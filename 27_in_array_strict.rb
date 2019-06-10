@@ -25,5 +25,10 @@
 # helper methods, except for .each
 
 def in_array_strict? (string, arr, strict)
+  i = 1
     # your code goes here
+  while in_array_strict?(i)
+    string == arr.split
+      
+
 end
