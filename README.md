@@ -32,3 +32,4 @@
 * 08_count_letters
 * 09_vowels
 * 10_unique
+* 11_fizzbuzz
