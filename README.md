@@ -36,3 +36,7 @@
 * 18_find_errors
 * 19_balanced_number
 * 20_descending_numbers
+<<<<<<< HEAD
+=======
+* 21_sort_numbers
+>>>>>>> 8c04d27021a238ed168bba0dca4befe31c1c9749
