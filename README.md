@@ -21,8 +21,11 @@
     7. Push to master in your fork:<br/>
      `git push origin master`
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 22214b8847ff6c0bac28dc9a21fa0df33d860f1c
 ## List of challenge branches
 * 01_ruby_intro
 * 02_input_output
@@ -33,6 +36,7 @@
 * 07_included_once
 * 08_count_letters
 * 09_vowels
+<<<<<<< HEAD
 * 10_unique
 * 11_fizzbuzz
 * 12_count_words
@@ -51,3 +55,6 @@
 * 25_remove_adjacent_duplicates
 * 26_max_min
 * 27_in_array_strict
+=======
+* 10_unique
+>>>>>>> 22214b8847ff6c0bac28dc9a21fa0df33d860f1c
