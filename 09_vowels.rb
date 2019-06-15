@@ -10,6 +10,8 @@
 # Check your solution by running the tests:
 # ruby tests/09_vowels_test.rb
 
-def vowels (string)
-  # Your code here
+def vowels(string)
+  string.gsub(/[BbCcDdFfGgHhJjKkLlMmNnPpQqRrSsTtVvWwXxYyZz ]/, '').chars
 end
+
+puts vowels("The quick brown fox")

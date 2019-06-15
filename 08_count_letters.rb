@@ -19,5 +19,5 @@ def count_letters (string)
 end
 
 
-# p count_letters("hello")
-# p count_letters("mississippi")
+p count_letters("hello")
+p count_letters("mississippi")
